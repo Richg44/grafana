@@ -18401,7 +18401,7 @@ __metadata:
     style-loader: "npm:4.0.0"
     stylelint: "npm:16.14.1"
     stylelint-config-sass-guidelines: "npm:12.1.0"
-    swagger-ui-react: "npm:5.26.2"
+    swagger-ui-react: "npm:5.27.0"
     symbol-observable: "npm:4.0.0"
     systemjs: "npm:6.15.1"
     terser-webpack-plugin: "npm:5.3.11"
@@ -27275,7 +27275,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-virtualized-auto-sizer@npm:*, react-virtualized-auto-sizer@npm:1.0.26":
+"react-virtualized-auto-sizer@npm:*, react-virtualized-auto-sizer@npm:1.0.26, react-virtualized-auto-sizer@npm:^1.0.6":
   version: 1.0.26
   resolution: "react-virtualized-auto-sizer@npm:1.0.26"
   peerDependencies:
@@ -27292,16 +27292,6 @@ __metadata:
     react: ^15.3.0 || ^16.0.0-alpha || ^17.0.0 || ^18.0.0
     react-dom: ^15.3.0 || ^16.0.0-alpha || ^17.0.0 || ^18.0.0
   checksum: 10/02101a340bdbe3e40c49dbc52e524eb7ca18832690e91f045a25675600d7adc0a63e800a4ace6a014132adcdcce0e12a8137971de408427a5a3112d7c87c9f3e
-  languageName: node
-  linkType: hard
-
-"react-virtualized-auto-sizer@npm:^1.0.6":
-  version: 1.0.25
-  resolution: "react-virtualized-auto-sizer@npm:1.0.25"
-  peerDependencies:
-    react: ^15.3.0 || ^16.0.0-alpha || ^17.0.0 || ^18.0.0 || ^19.0.0
-    react-dom: ^15.3.0 || ^16.0.0-alpha || ^17.0.0 || ^18.0.0 || ^19.0.0
-  checksum: 10/43678a904019f0413a3c649b5b64ea51263283120c991b285077b5075cf2ea564571f6d48b3a396b588d500d45820d1c98989cb7091e2a009e73e4faa7da9d20
   languageName: node
   linkType: hard
 
@@ -30179,9 +30169,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"swagger-ui-react@npm:5.26.2":
-  version: 5.26.2
-  resolution: "swagger-ui-react@npm:5.26.2"
+"swagger-ui-react@npm:5.27.0":
+  version: 5.27.0
+  resolution: "swagger-ui-react@npm:5.27.0"
   dependencies:
     "@babel/runtime-corejs3": "npm:^7.27.1"
     "@scarf/scarf": "npm:=1.4.0"
@@ -30219,7 +30209,7 @@ __metadata:
   peerDependencies:
     react: ">=16.8.0 <19"
     react-dom: ">=16.8.0 <19"
-  checksum: 10/4ca99974df01fda16adcfd16458ee8703f1f1df5112e80dd2373bcaca0404f188ce1b96ae8ac4838311f2ec5b6073220966ba4089cc67ea378a84990976c6d40
+  checksum: 10/bcfebfde79f41259d957bf55d8d53ab5eb76747899153e0ed8eafd7ddb5e9341a47e0f5250b41e6c52814b318d99f0ed4515c04334c68797fb6171ac3f55340b
   languageName: node
   linkType: hard
 
