@@ -3053,13 +3053,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@grafana/azure-sdk@npm:0.0.7":
-  version: 0.0.7
-  resolution: "@grafana/azure-sdk@npm:0.0.7"
+"@grafana/azure-sdk@npm:0.0.8":
+  version: 0.0.8
+  resolution: "@grafana/azure-sdk@npm:0.0.8"
   dependencies:
-    react-dom: "npm:^18.3.1"
-    ts-jest: "npm:29.2.5"
-  checksum: 10/19985d0d3dbcb63a3c82bf6c17aeeb927d81f297c5589d64ef2ac6dabb3fd4e6b22f5c947f132575cc8bf37e2089394b4442f2c0db02fa4f62b617d297524d3a
+    react-dom: "npm:^19.2.0"
+  checksum: 10/9fc1571658f73b321f1e53761e15add98541c5e743b90ed6c13e55a176e6667a62883435165efe20da45bf8ed94f9d229cdcb4761bc00cba1304f0ef8ee28954
   languageName: node
   linkType: hard
 
@@ -18126,7 +18125,7 @@ __metadata:
     "@glideapps/glide-data-grid": "npm:^6.0.0"
     "@grafana/alerting": "workspace:*"
     "@grafana/aws-sdk": "npm:0.7.1"
-    "@grafana/azure-sdk": "npm:0.0.7"
+    "@grafana/azure-sdk": "npm:0.0.8"
     "@grafana/data": "workspace:*"
     "@grafana/e2e-selectors": "workspace:*"
     "@grafana/eslint-config": "npm:8.0.0"
@@ -26659,7 +26658,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dom@npm:18.3.1, react-dom@npm:^18.3.1":
+"react-dom@npm:18.3.1":
   version: 18.3.1
   resolution: "react-dom@npm:18.3.1"
   dependencies:
@@ -26671,14 +26670,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dom@npm:^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0":
-  version: 19.0.0
-  resolution: "react-dom@npm:19.0.0"
+"react-dom@npm:^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0, react-dom@npm:^19.2.0":
+  version: 19.3.0
+  resolution: "react-dom@npm:19.3.0"
   dependencies:
-    scheduler: "npm:^0.25.0"
+    scheduler: "npm:^0.28.0"
   peerDependencies:
-    react: ^19.0.0
-  checksum: 10/aa64a2f1991042f516260e8b0eca0ae777b6c8f1aa2b5ae096e80bbb6ac9b005aef2bca697969841d34f7e1819556263476bdfea36c35092e8d9aefde3de2d9a
+    react: ^19.3.0
+  checksum: 10/fa6c6a3d0cca3f98280017936f818a1f9e474d61d1a64a7b02bfedabbf936234dd3752ba5b7f35efa7f2264c9a073ebace56cb2521e1cbfe7a50444a43ef5690
   languageName: node
   linkType: hard
 
@@ -28458,10 +28457,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"scheduler@npm:^0.25.0":
-  version: 0.25.0
-  resolution: "scheduler@npm:0.25.0"
-  checksum: 10/e661e38503ab29a153429a99203fefa764f28b35c079719eb5efdd2c1c1086522f6653d8ffce388209682c23891a6d1d32fa6badf53c35fb5b9cd0c55ace42de
+"scheduler@npm:^0.28.0":
+  version: 0.28.0
+  resolution: "scheduler@npm:0.28.0"
+  checksum: 10/2a936a3729df438bd42e6af7a16a62b83543796209c9d2e637f3d7b198bd5c25c5909478a9da4f66923d290e01997816338cf740587c440448863783bd33d31d
   languageName: node
   linkType: hard
 
